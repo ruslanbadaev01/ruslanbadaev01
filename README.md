@@ -1,7 +1,40 @@
 [![Header](<https://github.com/ruslanbadaev01/ruslanbadaev01/blob/main/assets/6vIk%20(3).gif>)](https://github.com/ruslanbadaev01)
 
-About me
+## I am a novice frontend developer
 
 Latest
 
-Language
+## Language and Tools
+
+![linux](https://img.shields.io/badge/Linux-ebc0c0?style=for-the-badge&logo=linux&logoColor=000)
+![docker](https://img.shields.io/badge/docker-ebc0c0?style=for-the-badge&logo=docker)
+![https](https://img.shields.io/badge/https/http-ebc0c0?style=for-the-badge&logo=https)
+![ssh](https://img.shields.io/badge/ssh-ebc0c0?style=for-the-badge&logo=ssh)
+![ftp](https://img.shields.io/badge/ftp-ebc0c0?style=for-the-badge&logo=ftp)
+
+![HTML](https://img.shields.io/badge/HTML5-ebc0c0?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-ebc0c0?style=for-the-badge&logo=css3&logoColor=4e6af5)
+![SCSS](https://img.shields.io/badge/SCSS-ebc0c0?style=for-the-badge&logo=sass&logoColor=faa0a0)
+![TailWind](https://img.shields.io/badge/Tailwind-ebc0c0?style=for-the-badge&logo=tailwindcss&logoColor=63a6f2)
+
+![JS](https://img.shields.io/badge/JavaScript-ebc0c0?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/TypeScript-ebc0c0?style=for-the-badge&logo=TypeScript)
+![JSON](https://img.shields.io/badge/JSON-ebc0c0?style=for-the-badge&logo=JSON)
+![Python](https://img.shields.io/badge/Python-ebc0c0?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/Java-ebc0c0?style=for-the-badge&logo=Java)
+![PHP](https://img.shields.io/badge/PHP-ebc0c0?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-ebc0c0?style=for-the-badge&logo=mysql)
+
+![React](https://img.shields.io/badge/React-ebc0c0?style=for-the-badge&logo=React)
+![Angular](https://img.shields.io/badge/Angular-ebc0c0?style=for-the-badge&logo=Angular&logoColor=fa0000)
+
+![Node.js](https://img.shields.io/badge/node.js-ebc0c0?style=for-the-badge&logo=node.js)
+![git](https://img.shields.io/badge/Git-ebc0c0?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/GitHub-ebc0c0?style=for-the-badge&logo=github)
+
+![Wordpress](https://img.shields.io/badge/Wordpress-ebc0c0?style=for-the-badge&logo=wordpress&logoColor=248ff2)
+![Stackblitz](https://img.shields.io/badge/Stackblitz-ebc0c0?style=for-the-badge&logo=stackblitz&logoColor=f29224)
+![Figma](https://img.shields.io/badge/Figma-ebc0c0?style=for-the-badge&logo=figma)
+
+![Codewars](https://img.shields.io/badge/Codewars-ebc0c0?style=for-the-badge&logo=codewars&logoColor=fc0303)
