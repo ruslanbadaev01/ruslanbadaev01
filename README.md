@@ -5,10 +5,15 @@
 ## Latest project
 
 https://github.com/ruslanbadaev01/React-Sneakers
+
 https://github.com/ruslanbadaev01/Code_Wars_kyu
+
 https://github.com/ruslanbadaev01/To-Do-List
+
 https://github.com/ruslanbadaev01/new-project
+
 https://github.com/ruslanbadaev01/Mortal_Combat
+
 https://github.com/ruslanbadaev01/SQL_Project
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbadaev01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
