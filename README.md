@@ -41,6 +41,6 @@ Latest
 
 ## You can find me at
 
-![Telegram](https://img.shields.io/badge/Telegram-ebc0c0?style=for-the-badge&logo=Telegram)
-![instagram](https://img.shields.io/badge/instagram-ebc0c0?style=for-the-badge&logo=instagram)
-![VK](https://img.shields.io/badge/VK-ebc0c0?style=for-the-badge&logo=VK&logoColor=248ff2)
+[![Telegram](https://img.shields.io/badge/Telegram-ebc0c0?style=for-the-badge&logo=Telegram)](https://t.me/l0c_d0g)
+[![instagram](https://img.shields.io/badge/instagram-ebc0c0?style=for-the-badge&logo=instagram)](https://www.instagram.com/ni.xuyace)
+[![VK](https://img.shields.io/badge/VK-ebc0c0?style=for-the-badge&logo=VK&logoColor=248ff2)](https://vk.com/lc_dg)
