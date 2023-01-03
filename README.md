@@ -2,7 +2,16 @@
 
 ## I am a novice frontend developer
 
-Latest
+## Latest project
+
+https://github.com/ruslanbadaev01/React-Sneakers
+https://github.com/ruslanbadaev01/Code_Wars_kyu
+https://github.com/ruslanbadaev01/To-Do-List
+https://github.com/ruslanbadaev01/new-project
+https://github.com/ruslanbadaev01/Mortal_Combat
+https://github.com/ruslanbadaev01/SQL_Project
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbadaev01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language and Tools
 
@@ -42,5 +51,7 @@ Latest
 ## You can find me at
 
 [![Telegram](https://img.shields.io/badge/Telegram-ebc0c0?style=for-the-badge&logo=Telegram)](https://t.me/l0c_d0g)
-[![instagram](https://img.shields.io/badge/instagram-ebc0c0?style=for-the-badge&logo=instagram)](https://www.instagram.com/ni.xuyace)
 [![VK](https://img.shields.io/badge/VK-ebc0c0?style=for-the-badge&logo=VK&logoColor=248ff2)](https://vk.com/lc_dg)
+[![GMAIl](https://img.shields.io/badge/gMail-ebc0c0?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/#inbox)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanbadaev01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
