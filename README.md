@@ -2,7 +2,7 @@
 
 ## I am a novice frontend developer
 
-## Latest project
+## Latest projects:
 
 https://github.com/ruslanbadaev01/React-Sneakers
 
@@ -18,7 +18,7 @@ https://github.com/ruslanbadaev01/SQL_Project
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbadaev01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Language and Tools
+## Languages and Tools:
 
 ![linux](https://img.shields.io/badge/Linux-ebc0c0?style=for-the-badge&logo=linux&logoColor=000)
 ![docker](https://img.shields.io/badge/docker-ebc0c0?style=for-the-badge&logo=docker)
@@ -53,7 +53,7 @@ https://github.com/ruslanbadaev01/SQL_Project
 
 ![Codewars](https://img.shields.io/badge/Codewars-ebc0c0?style=for-the-badge&logo=codewars&logoColor=fc0303)
 
-## You can find me at
+## You can find me at:
 
 [![Telegram](https://img.shields.io/badge/Telegram-ebc0c0?style=for-the-badge&logo=Telegram)](https://t.me/l0c_d0g)
 [![VK](https://img.shields.io/badge/VK-ebc0c0?style=for-the-badge&logo=VK&logoColor=248ff2)](https://vk.com/lc_dg)
